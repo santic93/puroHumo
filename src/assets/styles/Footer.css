@@ -1,0 +1,14 @@
+
+.footer {
+  position: absolute;
+  background-color: #1746a2;
+  bottom: 0;
+  width: 100%;
+  padding: 0.5em 0;
+}
+.text {
+  color: #fff7e9;
+  font-weight: bold;
+  letter-spacing: 3px;
+  font-family: 'Alkalami', serif;
+}

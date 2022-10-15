@@ -1,0 +1,78 @@
+{
+  "hamburguesas": [
+    {
+      "nombre": "PURO HUMO",
+      "ingredientes": "Medallon, Cheddar, Cebolla Morada, Tomate, Lechuga, Salsa Golf",
+      "img": "img1"
+    },
+    {
+      "nombre": "CUARTO LIBRA:",
+      "ingredientes": "Medallon, Cheddar, Panceta (a elección), Salsa DC.",
+      "img": "img1"
+    },
+    {
+      "nombre": "PEPPER",
+      "ingredientes": "Medallon, Cheddar, Rucula, Champigñon, Pepinos Encurtidos, Mostaza.",
+      "img": "img1"
+    },
+    {
+      "nombre": "NEW YORK",
+      "ingredientes": "Medallon, Cheddar, Panceta, Cebolla Crispy, Barbacoa.",
+      "img": "img1"
+    },
+    {
+      "nombre": "CHICAGO",
+      "ingredientes": "Medallon, Cheddar, Baston de Muzarella x2, Salsa Picante / Barbacoa.",
+      "img": "img1"
+    },
+    {
+      "nombre": "LAS VEGAS",
+      "ingredientes": "Medallon, Cheddar, Aros de Cebolla, Salsa Barbacoa.",
+      "img": "img1"
+    },
+    {
+      "nombre": "INFANTIL",
+      "ingredientes": "Medallon, Cheddar, Salsa Ketchup.",
+      "img": "img1"
+    }
+  ],
+  "lomos": [
+    {
+      "nombre": "PAMPEANO 1",
+      "ingredientes": "Lomo, Tomate, Lechuga.",
+      "img": "./assets/images/pampeanoUno.jpeg"
+    },
+    {
+      "nombre": "PAMPEANO 2",
+      "ingredientes": "Lomo, Jamon Cocido, Queso Tybo.",
+      "img": "./assets/images/IMG_20210731_200633_121.jpeg"
+    },
+    {
+      "nombre": "AMERICANO",
+      "ingredientes": "Lomo, Tomate, Lechuga, Huevo a la Plancha, Jamon Cocido, Queso Tybo.",
+      "img": "./assets/images/americano.webp"
+    },
+    {
+      "nombre": "FRANCES",
+      "ingredientes": "Lomo, Cebolla Caramelizada, Morron Asado, Tomate Confitado, Jamon Cocido, Queso Tybo.",
+      "img": "./assets/images/frances.webp"
+    },
+    {
+      "nombre": "ESCOCES",
+      "ingredientes": "Lomo. Oueso Cheddar, Panceta, Huevo Revuelto.",
+      "img": "./assets/images/nuggets.jpeg"
+    }
+  ],
+  "nuggets": [
+    {
+      "nombre": "KENTUCKY JR",
+      "ingredientes": "Nuggets x8, Salsa x1.",
+      "img": "./assets/images/nuggets.jpeg"
+    },
+    {
+      "nombre": "KENTUCKY SR",
+      "ingredientes": "Nuggets x15, Salsa x2.",
+      "img": "./assets/images/nuggets.jpeg"
+    }
+  ]
+}
